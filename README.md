@@ -1,0 +1,2 @@
+# EFI-B560M-104F-RX6600-AX210
+EFI Opencore for B560M 104F RX6600 AX210 test on Ventura 13
