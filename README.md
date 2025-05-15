@@ -14,10 +14,10 @@
 * Intel AX210
 
 ## Creating the USB
-* [Follow Install Guide](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/)(opens new window)
+* [Follow Install Guide](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/)
 
 ## Regenerate SMBIOS info
-* use CorpNewt's [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS)(opens new window) application
+* use CorpNewt's [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) application
 * chose the iMacPro1,1
 
 ## BIOS setting
@@ -46,4 +46,4 @@
 
 # Buy me a coffee
 
-* [paypal.me/cheuhyakuroku](paypal.me/cheuhyakuroku)(opens new window)
+* [paypal.me/cheuhyakuroku](paypal.me/cheuhyakuroku)
